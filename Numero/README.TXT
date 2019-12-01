@@ -3,7 +3,7 @@
 	
 Christian Viery Sanchez Pablo
 01/12/2019
-Club de Promacion
+Club de Programacion
 Programa: Numero
 
 
